@@ -1,6 +1,6 @@
 
 <!DOCTYPE html><html lang="id-ID"><head>
-<link href="https://library.uindatokarama.ac.id/" rel="preconnect">
+<link href="https://fasya.uindatokarama.ac.id/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -8,26 +8,27 @@
 <title>MADAMTOTO 🏆 Situs Togel Online Terpercaya dengan Akses Alternatif Resmi</title>
 <meta name="title" content="MADAMTOTO 🏆 Situs Togel Online Terpercaya dengan Akses Alternatif Resmi">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://library.uindatokarama.ac.id/">
+<link rel="canonical" href="https://fasya.uindatokarama.ac.id/">
 <link rel="amphtml" href="https://ibunya-cungkok-lang.pages.dev/">
-    <link rel="alternate" hreflang="id-id" href="https://library.uindatokarama.ac.id/"/>
-    <link rel="alternate" href="https://library.uindatokarama.ac.id/"/>
-    <link rel="alternate" hreflang="id" href="https://library.uindatokarama.ac.id/"/>
-    <link rel="alternate" hreflang="en" href="https://library.uindatokarama.ac.id/"/>
-    <link rel="alternate" hreflang="x-default"https://library.uindatokarama.ac.id/"/>
+    <link rel="alternate" hreflang="id-id" href="https://fasya.uindatokarama.ac.id/"/>
+    <link rel="alternate" href="https://fasya.uindatokarama.ac.id/"/>
+    <link rel="alternate" hreflang="id" href="https://fasya.uindatokarama.ac.id/"/>
+    <link rel="alternate" hreflang="en" href="https://fasya.uindatokarama.ac.id/"/>
+    <link rel="alternate" hreflang="x-default"https://fasya.uindatokarama.ac.id/"/>
 <meta name="publisher" content="MADAMTOTO">
+<meta name="google-site-verification" content="WPyNAcvf1w9ZpSuxh3eVOjVoT-l7Hr4NC-Kv_jlMN9Q" />
 <meta name="description" content="MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.">
                   <meta name="keywords" content="Madamtoto, madamtoto alternatif, madamtoto login, alternatif madamtoto, login madamtoto, togel online, link madamtoto, madamtoto link"/>
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="MADAMTOTO 🏆 Situs Togel Online Terpercaya dengan Akses Alternatif Resmi">
 <meta name="twitter:description" content="MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.">
-<meta name="twitter:url" content="https://library.uindatokarama.ac.id/">
+<meta name="twitter:url" content="https://fasya.uindatokarama.ac.id/">
 <meta name="twitter:image" content="https://madamtoto.dataklmsad903.site/images/setting-logo/1/XfcL9BxrBwg9Y4QV.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MADAMTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://library.uindatokarama.ac.id/">
+<meta property="og:url" content="https://fasya.uindatokarama.ac.id/">
 <meta property="og:title" content="MADAMTOTO 🏆 Situs Togel Online Terpercaya dengan Akses Alternatif Resmi">
 <meta property="og:description" content="MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.">
 <meta property="og:image" content="https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png">
@@ -693,9 +694,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://library.uindatokarama.ac.id/#organization",
+        "@id": "https://fasya.uindatokarama.ac.id/#organization",
         "name": "bandar togel",
-        "url": "https://library.uindatokarama.ac.id/",
+        "url": "https://fasya.uindatokarama.ac.id/",
         "logo": "https://madamtoto.dataklmsad903.site/images/setting-logo/1/XfcL9BxrBwg9Y4QV.gif",
         "sameAs": [
           "https://facebook.com/MADAMTOTO",
@@ -721,32 +722,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://library.uindatokarama.ac.id/#breadcrumb",
+        "@id": "https://fasya.uindatokarama.ac.id/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "MADAMTOTO",
-            "item": "https://library.uindatokarama.ac.id/-MADAMTOTO"
+            "item": "https://fasya.uindatokarama.ac.id/-MADAMTOTO"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "MADAM toto",
-            "item": "https://library.uindatokarama.ac.id/-MADAM-Toto"
+            "item": "https://fasya.uindatokarama.ac.id/-MADAM-Toto"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MADAMTOTO togel",
-            "item": "https://library.uindatokarama.ac.id/-MADAM-Toto"
+            "item": "https://fasya.uindatokarama.ac.id/-MADAM-Toto"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://library.uindatokarama.ac.id/demo#product",
+        "@id": "https://fasya.uindatokarama.ac.id/demo#product",
         "name": "togel online",
         "image": [
           "https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png"
@@ -758,7 +759,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "MADAMTOTO-Togel",
         "category": "MADAMTOTO Gacor",
-        "url": "https://library.uindatokarama.ac.id/",
+        "url": "https://fasya.uindatokarama.ac.id/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -802,7 +803,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://library.uindatokarama.ac.id/",
+          "url": "https://fasya.uindatokarama.ac.id/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -811,7 +812,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://library.uindatokarama.ac.id/#merchant-listing",
+        "@id": "https://fasya.uindatokarama.ac.id/#merchant-listing",
         "name": "Situs Toto",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -820,9 +821,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://library.uindatokarama.ac.id//demo-MADAMTOTO#product",
+              "@id": "https://fasya.uindatokarama.ac.id//demo-MADAMTOTO#product",
               "name": "MADAMTOTO",
-              "url": "https://library.uindatokarama.ac.id//demo-MADAMTOTO",
+              "url": "https://fasya.uindatokarama.ac.id//demo-MADAMTOTO",
               "image": "https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png",
               "description": "MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.",
               "brand": {
@@ -837,7 +838,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://library.uindatokarama.ac.id//MADAMTOTO-gacor",
+                "url": "https://fasya.uindatokarama.ac.id//MADAMTOTO-gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -849,9 +850,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://library.uindatokarama.ac.id//#product",
+              "@id": "https://fasya.uindatokarama.ac.id//#product",
               "name": "situs toto",
-              "url": "https://library.uindatokarama.ac.id/",
+              "url": "https://fasya.uindatokarama.ac.id/",
               "image": "https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png",
               "description": "MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.",
               "brand": {
@@ -866,7 +867,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://library.uindatokarama.ac.id/",
+                "url": "https://fasya.uindatokarama.ac.id/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -878,9 +879,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://library.uindatokarama.ac.id//MADAMTOTO-resmi#product",
+              "@id": "https://fasya.uindatokarama.ac.id//MADAMTOTO-resmi#product",
               "name": "MADAMTOTO",
-              "url": "https://library.uindatokarama.ac.id//MADAMTOTO-resmi",
+              "url": "https://fasya.uindatokarama.ac.id//MADAMTOTO-resmi",
               "image": "https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png",
               "description": "MADAMTOTO adalah situs togel online terpercaya dengan link alternatif terbaru yang mudah diakses tanpa blokir. Nikmati pengalaman bermain dengan akses cepat, sistem stabil, dan layanan terbaik untuk pengguna setiap hari.",
               "brand": {
@@ -895,7 +896,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://library.uindatokarama.ac.id//MADAMTOTO-gacor",
+                "url": "https://fasya.uindatokarama.ac.id//MADAMTOTO-gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -913,27 +914,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://library.uindatokarama.ac.id/#org",
+      "@id": "https://fasya.uindatokarama.ac.id/#org",
       "name": "MADAMTOTO",
-      "url": "https://library.uindatokarama.ac.id/",
+      "url": "https://fasya.uindatokarama.ac.id/",
       "logo": "https://abang-cungkok.pages.dev/MadamToto/toto-macau-madam.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://library.uindatokarama.ac.id/#website",
-      "url": "https://library.uindatokarama.ac.id/",
+      "@id": "https://fasya.uindatokarama.ac.id/#website",
+      "url": "https://fasya.uindatokarama.ac.id/",
       "name": "MADAMTOTO",
-      "publisher": { "@id": "https://library.uindatokarama.ac.id/#org" },
+      "publisher": { "@id": "https://fasya.uindatokarama.ac.id/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://library.uindatokarama.ac.id/?s={search_term_string}",
+        "target": "https://fasya.uindatokarama.ac.id/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://library.uindatokarama.ac.id/#app",
+      "@id": "https://fasya.uindatokarama.ac.id/#app",
       "name": "MADAMTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1042,7 +1043,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="togel" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="togel" class="nv00-gnb-v4__logo" href="https://library.uindatokarama.ac.id/">
+       <a an-ac="gnb" an-ca="navigation" an-la="togel" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="togel" class="nv00-gnb-v4__logo" href="https://fasya.uindatokarama.ac.id/">
         <img src="https://madamtoto.dataklmsad903.site/images/setting-logo/1/XfcL9BxrBwg9Y4QV.gif" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1107,7 +1108,7 @@ digitalData.page.pageInfo.pageName = pageName;
           Kembali
          </span>
          <svg aria-hidden="true" class="icon" focusable="false">
-          <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+          <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
           </use>
          </svg>
         </button>
@@ -1299,7 +1300,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Previous
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </div>
@@ -1310,7 +1311,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Next
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </div>
@@ -1324,7 +1325,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             MADAMTOTO
             </span>
@@ -1341,7 +1342,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MADAMTOTO LOGIN
             </span>
@@ -1355,7 +1356,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS TOTO
             </span>
@@ -1369,7 +1370,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MADAMTOTO RESMI
             </span>
@@ -1383,7 +1384,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              TOTO TOGEL
             </span>
@@ -1397,7 +1398,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BANDAR TOGEL
             </span>
@@ -1430,7 +1431,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="MADAMTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MADAMTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://library.uindatokarama.ac.id/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="MADAMTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MADAMTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://fasya.uindatokarama.ac.id/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1438,13 +1439,13 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/" role="menuitem">
+         <a data-linkinfo="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://library.uindatokarama.ac.id/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </a>
@@ -1461,10 +1462,10 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://library.uindatokarama.ac.id/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </a>
@@ -1506,13 +1507,13 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://library.uindatokarama.ac.id/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://library.uindatokarama.ac.id/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://fasya.uindatokarama.ac.id/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://fasya.uindatokarama.ac.id/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://library.uindatokarama.ac.id/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </a>
@@ -1525,7 +1526,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="togel" an-tr="nv00_gnb-product detail-account-account" aria-label="togel" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://library.uindatokarama.ac.id/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="togel" an-tr="nv00_gnb-product detail-account-account" aria-label="togel" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
               togel
             </a>
            </div>
@@ -1552,10 +1553,10 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://library.uindatokarama.ac.id/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://fasya.uindatokarama.ac.id/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </a>
@@ -1593,7 +1594,7 @@ digitalData.page.pageInfo.pageName = pageName;
          Close menu
         </span>
         <svg aria-hidden="true" class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </button>
@@ -1684,7 +1685,7 @@ digitalData.page.pageInfo.pageName = pageName;
      </div>
      <div class="layer-popup gnb-layer_popup-js" id="layerEmptyCart">
       <svg aria-hidden="true" class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
       <p class="layer-popup__desc information-text">
@@ -1700,14 +1701,14 @@ digitalData.page.pageInfo.pageName = pageName;
         Tutup Layar Popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
      </div>
      <div class="layer-popup gnb-layer_popup-js" id="layerInsufficientStock">
       <svg aria-hidden="true" class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
       <p class="layer-popup__desc information-text">
@@ -1723,7 +1724,7 @@ digitalData.page.pageInfo.pageName = pageName;
         Tutup Layar Popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -1750,7 +1751,7 @@ digitalData.page.pageInfo.pageName = pageName;
         Tutup Layar Popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -1766,7 +1767,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <span class="checkbox-v2__label-box-wrap">
           <span class="checkbox-v2__label-box">
            <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </span>
@@ -1789,7 +1790,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <span class="checkbox-v2__label-box-wrap">
           <span class="checkbox-v2__label-box">
            <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </span>
@@ -1816,7 +1817,7 @@ digitalData.page.pageInfo.pageName = pageName;
         Tutup Kebijakan Privasi
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -1841,7 +1842,7 @@ digitalData.page.pageInfo.pageName = pageName;
         Tutup Preferensi
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -1869,7 +1870,7 @@ digitalData.page.pageInfo.pageName = pageName;
        </legend>
        <button aria-label="Cari" class="srd19-gnb-search__btn-search" type="submit">
         <svg class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </button>
@@ -1886,7 +1887,7 @@ digitalData.page.pageInfo.pageName = pageName;
          Scan Barcode
         </span>
         <svg aria-hidden="true" class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </button>
@@ -1964,7 +1965,7 @@ digitalData.page.pageInfo.pageName = pageName;
        Tutup
       </span>
       <svg class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
      </button>
@@ -2028,11 +2029,11 @@ digitalData.page.pageInfo.pageName = pageName;
        </div>
        <a an-ac="view more" an-ca="indication" an-la="view more" an-tr="pdd11_offer banner-product detail-image-arrow" aria-expanded="false" class="pd-banner__toggle" href="javascript:void(0)" role="button">
         <svg class="icon icon--open" focusable="false">
-         <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+         <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
         <svg class="icon icon--close" focusable="false">
-         <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+         <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
         <span class="pd-banner__toggle-open-text hidden">
@@ -2100,10 +2101,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://library.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://fasya.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://library.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://fasya.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2118,7 +2119,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="tab__left-arrow-wrap">
           <button aria-label="previous" class="tab__left-arrow disabled" role="button" type="button">
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -2136,7 +2137,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="tab__right-arrow-wrap disabled">
           <button aria-label="next" class="tab__right-arrow" role="button" type="button">
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -2202,7 +2203,7 @@ digitalData.page.pageInfo.pageName = pageName;
           Tutup Layar Popup
          </span>
          <svg class="icon" focusable="false">
-          <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+          <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
           </use>
          </svg>
         </button>
@@ -2241,7 +2242,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Previous
           </span>
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </button>
@@ -2252,7 +2253,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Next
           </span>
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </button>
@@ -2282,7 +2283,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <!-- (2022.08.11 수정) .pdd16-step-buying__promotion-banner 추가 -->
       <div class="pdd16-step-buying__promotion-banner">
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
        <p class="pdd16-step-buying__promotion-banner-text">
@@ -2327,7 +2328,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <button aria-label="Clear All" class="cta cta--underline cta--black cta--icon cta--clear-all">
           Clear All
           <svg class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </button>
@@ -2338,7 +2339,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="tab__left-arrow-wrap disabled">
           <button aria-label="previous" class="tab__left-arrow" role="button" type="button" disabled="true" aria-disabled="true" tabindex="-1">
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -2366,7 +2367,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="tab__right-arrow-wrap disabled">
           <button aria-label="next" class="tab__right-arrow" role="button" type="button" disabled="true" aria-disabled="true" tabindex="-1">
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -2416,14 +2417,14 @@ digitalData.page.pageInfo.pageName = pageName;
              <div class="pdd16-step-buying__view-more" style="display: none; height: 0px;">
               <button aira-label="View more" class="cta" type="button">
                <svg class="icon next" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
                <span class="cta-text">
                 Lihat selengkapnya
                </span>
                <svg class="icon down" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -2478,7 +2479,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Layer Popup Close
           </span>
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </button>
@@ -2516,7 +2517,7 @@ digitalData.page.pageInfo.pageName = pageName;
           Tutup Layar Popup
          </span>
          <svg class="icon" focusable="false">
-          <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+          <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
           </use>
          </svg>
         </button>
@@ -2572,7 +2573,7 @@ digitalData.page.pageInfo.pageName = pageName;
           <button aria-label="Clear All" class="cta cta--underline cta--black cta--icon cta--clear-all">
            Clear All
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -2603,7 +2604,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/">
              Add to cart
             </a>
            </div>
@@ -2637,7 +2638,7 @@ digitalData.page.pageInfo.pageName = pageName;
                Previous
               </span>
               <svg aria-hidden="true" class="icon" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
@@ -2666,7 +2667,7 @@ digitalData.page.pageInfo.pageName = pageName;
                Next
               </span>
               <svg aria-hidden="true" class="icon" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
@@ -2762,10 +2763,10 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://library.uindatokarama.ac.id/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://fasya.uindatokarama.ac.id/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </a>
@@ -2825,7 +2826,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Layer Popup Close
           </span>
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </button>
@@ -2939,7 +2940,7 @@ digitalData.page.pageInfo.pageName = pageName;
                Sebelumnya
               </span>
               <svg aria-hidden="true" class="icon" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -2950,7 +2951,7 @@ digitalData.page.pageInfo.pageName = pageName;
                Berikutnya
               </span>
               <svg aria-hidden="true" class="icon" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -3326,7 +3327,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Close
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -3348,7 +3349,7 @@ digitalData.page.pageInfo.pageName = pageName;
                  Tutup
                 </span>
                 <svg aria-hidden="true" class="icon" focusable="false">
-                 <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                 <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                  </use>
                 </svg>
                </button>
@@ -3548,7 +3549,7 @@ digitalData.page.pageInfo.pageName = pageName;
              popup close
             </span>
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -3571,7 +3572,7 @@ digitalData.page.pageInfo.pageName = pageName;
               popup close
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </a>
@@ -4160,7 +4161,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://library.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://fasya.uindatokarama.ac.id/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -4336,7 +4337,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <a an-ac="pd buying tool" an-ca="option click" an-la="galaxy forever:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-layer-target="{{galaxyForever.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{galaxyForever.learnMoreCta.href}}" data-sdf-attr.target="{{galaxyForever.learnMoreCta.target}}" data-sdf-attr.title="{{galaxyForever.learnMoreCta.title}}" data-sdf-test="{{galaxyForever.learnMoreCta.isOutLink}}">
             {{galaxyForever.learnMoreCta.text}}
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -4507,7 +4508,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </h4>
            <button aria-haspopup="true" aria-label="MordernType information details" class="pd-select-option__info-link" data-target-popup="mordernType" type="button">
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </button>
@@ -4554,7 +4555,7 @@ digitalData.page.pageInfo.pageName = pageName;
              Type information details
             </span>
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </button>
@@ -4660,7 +4661,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Layer Popup Close
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -4698,7 +4699,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Layer Popup Close
              </span>
              <svg aria-hidden="true" class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -4736,7 +4737,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <a an-ac="pd buying tool" an-ca="option click" an-la="trade-in:learn more" an-tr="hdd02_product info.-product detail-option servicce selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-target-popup="{{tradeIn.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{tradeIn.learnMoreCta.href}}" data-sdf-attr.target="{{tradeIn.learnMoreCta.target}}" data-sdf-attr.title="{{tradeIn.learnMoreCta.title}}" data-sdf-test="{{tradeIn.learnMoreCta.isOutLink}}" rel="nofollow">
             {{tradeIn.learnMoreCta.text}}
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -4877,7 +4878,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </p>
          <p class="pd-select-option__alert-text alert-text" style="display: none;">
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
           The device you are trading in is more valuable than the phone you are buying. Unfortunately we cannot credit you the excess value, so please remove the trade in device, or change the device you are purchasing
@@ -4906,7 +4907,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal">
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
           Please select city
@@ -4925,15 +4926,15 @@ digitalData.page.pageInfo.pageName = pageName;
             <button aria-expanded="false" aria-haspopup="listbox" class="menu__select-field" type="button">
              <span class="menu__select-field-text">{{checkDealerStock.selectCity}}</span>
              <svg aria-hidden="true" class="menu__select-field-icon down" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <svg aria-hidden="true" class="menu__select-field-icon up" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
-           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap disabled" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">{{checkDealerStock.selectCity}}</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">{{item.name}}</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
+           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap disabled" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">{{checkDealerStock.selectCity}}</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">{{item.name}}</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
           </div>
           <p class="pd-select-option__check-message pd-select-option__check-message--success">
            <span>
@@ -5008,7 +5009,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </p>
          <p class="pd-select-option__notice">
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
           Please select MADAMTOTO Assured Buyback or no coverage
@@ -5064,7 +5065,7 @@ digitalData.page.pageInfo.pageName = pageName;
           <a an-ac="pd buying tool" an-ca="option click" an-la="samsung care:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-target-popup="{{care.learnMoreCta.layerTarget}}" data-sdf-attr.href="{{care.learnMoreCta.href}}" data-sdf-attr.target="{{care.learnMoreCta.target}}" data-sdf-attr.title="{{care.learnMoreCta.title}}" data-sdf-test="{{care.learnMoreCta.isOutLink}}" rel="nofollow">
            {{care.learnMoreCta.text}}
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </a>
@@ -5074,7 +5075,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal checkingSamsungCare">
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
           Tambah Samsung Care+ atau lanjutkan tanpa perlindungan extra
@@ -5179,7 +5180,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <a an-ac="pd buying tool" an-ca="option click" an-la="extended warranty:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-target-popup="{{warranty.learnMoreCta.layerTarget}}" data-sdf-attr.target="{{warranty.learnMoreCta.target}}" data-sdf-attr.title="{{warranty.learnMoreCta.title}}" data-sdf-test="{{warranty.learnMoreCta.isOutLink}}">
             {{warranty.learnMoreCta.text}}
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -5257,7 +5258,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <a an-ac="pd buying tool" an-ca="option click" an-la="extended warranty:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon" data-sdf-attr.data-target-popup="{{warrantyVd.learnMoreCta.learnMoreTargetPopup}}" data-sdf-attr.href="{{warrantyVd.learnMoreCta.learnMoreHref}}" data-sdf-attr.target="{{warrantyVd.learnMoreCta.learnMoreTarget}}">
             {{warrantyVd.learnMoreCta.learnMoreText}}
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -5334,7 +5335,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <input autocomplete="off" class="text-field-v2__input" data-sdf-attr.disabled="{{delivery.inputAttr.disabled}}" data-sdf-attr.maxlength="{{delivery.inputAttr.maxlength}}" data-sdf-attr.value="{{delivery.inputAttr.value}}" id="delivery-zipcode" type="text">
             <button an-ac="pd buying tool" an-ca="option click" an-la="zip code:delete" an-tr="header(pim)_option selector-product detail-image-submit" class="text-field-v2__input-icon delete add-special-tagging" title="Delete">
              <svg class="icon delete" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -5379,7 +5380,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Tutup
           </span>
           <svg aria-hidden="true" class="icon" focusable="false">
-           <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+           <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </a>
@@ -5393,7 +5394,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <a an-ac="pd buying tool" an-ca="option click" an-la="tariff:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black cta--icon add-special-tagging" data-sdf-attr.href="{{tariffOption.href}}" rel="nofollow" role="button" target="_blank" title="Lebih detail">
             Lebih detail
             <svg aria-hidden="true" class="icon" focusable="false">
-             <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+             <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </a>
@@ -5489,7 +5490,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <span class="checkbox-v3__label-box-wrap">
               <span class="checkbox-v3__label-box">
                <svg aria-hidden="true" class="checkbox-v3__label-box-icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </span>
@@ -5600,7 +5601,7 @@ digitalData.page.pageInfo.pageName = pageName;
             Lihat selengkapnya
            </span>
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
@@ -5626,7 +5627,7 @@ digitalData.page.pageInfo.pageName = pageName;
               Close
              </span>
              <svg aria-hidden="true" class="icon icon-delete" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -6059,7 +6060,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
 <!-- Article Content -->
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://library.uindatokarama.ac.id/">MADAMTOTO</a> MADAMTOTO adalah bandar togel online terpercaya yang menawarkan pengalaman bermain yang adil dan menyenangkan. Dengan pasaran terlengkap di situs toto resmi tahun ini, kami siap menemani Anda dalam setiap langkah permainan. Bergabunglah dengan kami dan nikmati kesempatan untuk meraih kemenangan dengan mudah dan aman.</p>
+<p style="text-align: justify;"><a href="https://fasya.uindatokarama.ac.id/">MADAMTOTO</a> MADAMTOTO adalah bandar togel online terpercaya yang menawarkan pengalaman bermain yang adil dan menyenangkan. Dengan pasaran terlengkap di situs toto resmi tahun ini, kami siap menemani Anda dalam setiap langkah permainan. Bergabunglah dengan kami dan nikmati kesempatan untuk meraih kemenangan dengan mudah dan aman.</p>
         </div>
                 </div>
       <!-- Reviews Section -->
@@ -6310,7 +6311,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </li>
@@ -6324,7 +6325,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </li>
@@ -6338,7 +6339,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
-         <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+         <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
          </use>
         </svg>
        </li>
@@ -6361,7 +6362,7 @@ digitalData.page.pageInfo.pageName = pageName;
           Tutup Layar Popup
          </span>
          <svg class="icon" focusable="false">
-          <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+          <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
           </use>
          </svg>
         </button>
@@ -6398,48 +6399,48 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     MADAM TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     SITUS TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     TOGEL ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     TOTO TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     BANDAR TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     LINK TOGEL
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     TOGEL LOGIN
                   </a>
                 </li>
@@ -6458,43 +6459,43 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -6514,43 +6515,43 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6570,7 +6571,7 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
@@ -6591,17 +6592,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -6622,28 +6623,28 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6661,28 +6662,28 @@ digitalData.page.pageInfo.pageName = pageName;
                 Buka
               </span>
               <svg class="icon" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
               </svg>
             </a>
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Tentang MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Kenapa Pilih MADAMTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                  <a class="footer-category__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6702,7 +6703,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://library.uindatokarama.ac.id/" an-as="">
+            <a class="footer-language__anchor" href="https://fasya.uindatokarama.ac.id/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6710,7 +6711,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://library.uindatokarama.ac.id/" an-as="">
+            <a class="footer-language__anchor" href="https://fasya.uindatokarama.ac.id/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6718,17 +6719,17 @@ digitalData.page.pageInfo.pageName = pageName;
           <div class="footer-terms">
             <ul class="footer-terms__list" role="list">
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                <a class="footer-terms__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                   Privasi
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                <a class="footer-terms__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                   Legal
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://library.uindatokarama.ac.id/" an-as="">
+                <a class="footer-terms__link" href="https://fasya.uindatokarama.ac.id/" an-as="">
                   Peta Situs
                 </a>
               </li>
@@ -6743,28 +6744,28 @@ digitalData.page.pageInfo.pageName = pageName;
               <li class="footer-sns__item" role="listitem">
                 <a class="footer-sns__link" href="https://facebook.com/MADAMTOTO" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
                 <a class="footer-sns__link" href="https://twitter.com/MADAMTOTO" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
                 <a class="footer-sns__link" href="https://instagram.com/MADAMTOTO" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
                 <a class="footer-sns__link" href="https://youtube.com/@MADAMTOTO" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/"></use>
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/"></use>
                   </svg>
                 </a>
               </li>
@@ -6779,7 +6780,7 @@ digitalData.page.pageInfo.pageName = pageName;
    <button an-ac="back to top" an-ca="indication" an-la="back to top" an-tr="nv02_footer bottom--text-back to top" class="fab" title="Go to Top" an-as="">
     Go to Top
     <svg class="fab__icon" focusable="false">
-     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
      </use>
     </svg>
    </button>
@@ -8003,7 +8004,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <div class="trade-in-learn-more-popup__cta-wrap">
                 <a class="cta cta--underline cta--black cta--icon" href="https://www.samsung.com/pt/campanha-retomas/" title="Open in a New Window" target="_blank"> More Information 
                   <svg class="icon" focusable="false">
-					<use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use>
+					<use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use>
                   </svg>
                 </a>
               </div>
@@ -8018,7 +8019,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        TUTUP
       </span>
       <svg class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
      </button>
@@ -8051,11 +8052,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <div class="tariff-popup__choose-tooltip__btn-wrap">
              <button aria-expanded="false" class="tariff-popup__choose-tooltip__btn" type="button">
               <svg class="icon help" focusable="false">
-               <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+               <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
               <svg class="icon cancel" focusable="false">
-               <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+               <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
               <span class="hidden">
@@ -8081,7 +8082,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button class="tariff-popup__tab-list-prev" role="button" style="display:none;">
              prev
              <svg class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -8097,7 +8098,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button class="tariff-popup__tab-list-next" role="button" style="display: none;">
              Next
              <svg class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -8118,7 +8119,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button class="tariff-popup__tab-list-prev" role="button" style="display:none;">
              prev
              <svg class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -8130,7 +8131,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button class="tariff-popup__tab-list-next" role="button">
              Next
              <svg class="icon" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
@@ -8178,14 +8179,14 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             </span>
             <span>
              <svg class="icon collapse">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden collapse">
               Klik untuk Memperluas
              </span>
              <svg class="icon expand">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden expand">
@@ -8203,14 +8204,14 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             </span>
             <span>
              <svg class="icon collapse">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden collapse">
               Klik untuk Memperluas
              </span>
              <svg class="icon expand">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden expand">
@@ -8228,14 +8229,14 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             </span>
             <span>
              <svg class="icon collapse">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden collapse">
               Klik untuk Memperluas
              </span>
              <svg class="icon expand">
-              <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+              <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <span class="hidden expand">
@@ -8372,11 +8373,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <button aria-expanded="false" aria-haspopup="listbox" aria-labelledby="tariff-addr-label-id tariff-text-label-id" class="menu__select-field" type="button">
               <span class="menu__select-field-text" id="tariff-text-label-id"></span>
               <svg aria-hidden="true" class="menu__select-field-icon down" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
               <svg aria-hidden="true" class="menu__select-field-icon up" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
@@ -8391,7 +8392,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <input autocomplete="off" class="text-field-v2__input" id="text-field-tariff-postcode" maxlength="5" name="postCode" type="text">
               <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
                <svg aria-hidden="true" class="icon delete" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -8413,7 +8414,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <input autocomplete="off" class="text-field-v2__input" id="text-field-tariff-street" name="streetName" type="text">
               <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
                <svg aria-hidden="true" class="icon delete" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -8435,7 +8436,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <input autocomplete="off" class="text-field-v2__input" id="text-field-3" name="houseNumber" type="text">
               <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
                <svg aria-hidden="true" class="icon delete" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -8457,7 +8458,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <input autocomplete="off" class="text-field-v2__input" id="text-field-4" name="houseNumberAddition" type="text">
               <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
                <svg aria-hidden="true" class="icon delete" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -8479,7 +8480,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <input autocomplete="off" class="text-field-v2__input" id="text-field-5" name="locality" type="text">
               <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
                <svg aria-hidden="true" class="icon delete" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -8585,7 +8586,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Layer Popup Close
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -8628,7 +8629,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="off" class="text-field-v2__input" id="zipcode-input" maxlength="5" type="text" value="">
              <button class="text-field-v2__input-icon delete" title="Delete">
               <svg class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
@@ -8833,7 +8834,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="off" class="text-field-v2__input" id="imei-input" maxlength="15" type="text" value="">
              <button class="text-field-v2__input-icon delete" title="Delete">
               <svg class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
@@ -8981,7 +8982,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        Tutup
       </span>
       <svg class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
      </button>
@@ -9001,7 +9002,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         <div class="upgrade-popup__apply">
          <div class="upgrade-popup__apply-img">
           <svg class="icon">
-           <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+           <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
            </use>
           </svg>
          </div>
@@ -9082,7 +9083,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
      </div>
      <button class="upgrade-popup__close">
       <svg class="icon">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
       <span class="hidden">
@@ -9100,7 +9101,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       
       <button class="upgrade-learn-more-popup__close">
        <svg class="icon">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
        <span class="hidden">
@@ -9130,7 +9131,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9158,7 +9159,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9199,7 +9200,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://library.uindatokarama.ac.id/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://fasya.uindatokarama.ac.id/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -9208,7 +9209,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9273,7 +9274,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9307,7 +9308,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9384,7 +9385,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
           <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.samsung.com/id/offer/samsung-care-plus/" target="_blank">
            See all benefits
            <svg aria-hidden="true" class="icon" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </a>
@@ -9400,7 +9401,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Close popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9467,7 +9468,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9480,7 +9481,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9490,7 +9491,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9503,7 +9504,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9513,7 +9514,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9565,26 +9566,26 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
            <button aria-expanded="false" aria-haspopup="listbox" class="menu__select-field">
             <span class="menu__select-field-text">My Wishlist</span>
             <svg aria-hidden="true" class="menu__select-field-icon down" focusable="false">
-             <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+             <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
             <svg aria-hidden="true" class="menu__select-field-icon up" focusable="false">
-             <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+             <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
              </use>
             </svg>
            </button>
-          <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 1</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 2</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 3</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 4</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 5</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 6</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 7</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 8</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 9</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
+          <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 1</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 2</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 3</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 4</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 5</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 6</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 7</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 8</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">My Wishlist 9</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
          </div>
         </div>
        </div>
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://library.uindatokarama.ac.id/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://fasya.uindatokarama.ac.id/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/" role="button">
         </a>
        </div>
       </div>
@@ -9593,7 +9594,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Close popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9650,12 +9651,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://library.uindatokarama.ac.id/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://fasya.uindatokarama.ac.id/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://library.uindatokarama.ac.id/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://fasya.uindatokarama.ac.id/" role="button">
            Yakin
           </a>
          </div>
@@ -9667,7 +9668,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Layer Popup Close
        </span>
        <svg class="icon">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9680,7 +9681,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/">
+        <a class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/">
          Bestätigen
         </a>
        </div>
@@ -9690,7 +9691,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Layer Popup Close
        </span>
        <svg class="icon">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9703,7 +9704,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://library.uindatokarama.ac.id/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://fasya.uindatokarama.ac.id/" title="">
          Bestätigen
         </a>
        </div>
@@ -9713,7 +9714,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Layer Popup Close
        </span>
        <svg class="icon">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9754,12 +9755,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://library.uindatokarama.ac.id/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://fasya.uindatokarama.ac.id/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://library.uindatokarama.ac.id/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://fasya.uindatokarama.ac.id/" role="button">
            Yakin
           </a>
          </div>
@@ -9771,7 +9772,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Close popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9803,7 +9804,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9876,7 +9877,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9916,7 +9917,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/">
+        <use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -9955,11 +9956,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <button aria-expanded="false" aria-haspopup="listbox" class="menu__select-field">
                <span class="menu__select-field-text"></span>
                <svg class="menu__select-field-icon down" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
                <svg class="menu__select-field-icon up" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -9977,11 +9978,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <button aria-expanded="false" aria-haspopup="listbox" class="menu__select-field">
                <span class="menu__select-field-text"></span>
                <svg class="menu__select-field-icon down" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
                <svg class="menu__select-field-icon up" focusable="false">
-                <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                 </use>
                </svg>
               </button>
@@ -10020,7 +10021,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -10066,13 +10067,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="organization" class="text-field-v2__input" data-form-name="CustomerName" id="popUp_form_0" maxlength="255" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10097,13 +10098,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="given-name" class="text-field-v2__input" data-form-name="ContactFirstName" id="popUp_form_1" maxlength="40" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10128,13 +10129,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="family-name" class="text-field-v2__input" data-form-name="ContactName" id="popUp_form_2" maxlength="80" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10159,13 +10160,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="email" class="text-field-v2__input" data-form-name="EmailAddress" id="popUp_form_3" maxlength="80" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10203,7 +10204,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10221,7 +10222,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10239,7 +10240,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10257,7 +10258,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10275,7 +10276,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10293,7 +10294,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10311,7 +10312,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                  <span class="checkbox-v2__label-box-wrap">
                   <span class="checkbox-v2__label-box">
                    <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                    <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                    <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                     </use>
                    </svg>
                   </span>
@@ -10337,13 +10338,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="address-line1" class="text-field-v2__input" data-form-name="CompanyAddress" id="popUp_form_5" maxlength="255" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10362,13 +10363,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="organization" class="text-field-v2__input" data-form-name="CompanyInterest" id="popUp_form_6" maxlength="255" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10387,13 +10388,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="organization-title" class="text-field-v2__input" data-form-name="JobTitle" id="popUp_form_7" maxlength="128" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10418,13 +10419,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
              <input autocomplete="tel" class="text-field-v2__input" data-form-name="Telephone" id="popUp_form_8" maxlength="40" type="text" value="">
              <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
               <svg aria-hidden="true" class="icon delete" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </button>
              <div class="text-field-v2__input-icon error">
               <svg aria-hidden="true" class="icon error" focusable="false">
-               <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+               <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                </use>
               </svg>
              </div>
@@ -10462,18 +10463,18 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button aria-expanded="false" aria-haspopup="listbox" aria-labelledby="hint_popUp_form_9 text_hint_popUp_form_9" class="menu__select-field" type="button">
              <span class="menu__select-field-text" id="text_hint_popUp_form_9"></span>
              <svg class="menu__select-field-icon down" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <svg class="menu__select-field-icon up" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
             <p class="menu--text-field__error">
              * This field is required
             </p>
-           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">&lt;50</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">50 ~ 99</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">100 ~ 199</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">200 ~ 499</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">500 ~ 999</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">&gt;1000</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
+           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">&lt;50</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">50 ~ 99</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">100 ~ 199</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">200 ~ 499</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">500 ~ 999</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">&gt;1000</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
           </div>
           <div class="contact-mail-form-popup__form-field form--size-full is-required field--dropdown">
            <div class="menu menu--text-field">
@@ -10521,18 +10522,18 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
             <button aria-expanded="false" aria-haspopup="listbox" aria-labelledby="hint_popUp_form_10 text_hint_popUp_form_10" class="menu__select-field" type="button">
              <span class="menu__select-field-text" id="text_hint_popUp_form_10"></span>
              <svg class="menu__select-field-icon down" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
              <svg class="menu__select-field-icon up" focusable="false">
-              <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+              <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
               </use>
              </svg>
             </button>
             <p class="menu--text-field__error">
              * This field is required
             </p>
-           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Communications</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Education</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Finance</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Government</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Healthcare</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Hospitality</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Manufacturing</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Retail</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Transportation &amp; Logistics</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Lainnya</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://library.uindatokarama.ac.id/" href="https://library.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
+           <div class="menu__list-wrap scrollbar" aria-hidden="true" style="visibility: hidden;"><div class="scrollbar__wrap" style="max-height: 0px;"><ul class="menu__list scrollbar__contents" role="listbox"><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Communications</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Education</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Finance</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Government</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Healthcare</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Hospitality</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Manufacturing</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Retail</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Transportation &amp; Logistics</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li><li class="menu__list-option-wrap" role="presentation"><button class="menu__list-option" aria-selected="false" role="option"><span class="menu__list-option-text">Lainnya</span><svg class="menu__list-option-icon" focusable="false"><use xlink:href="https://fasya.uindatokarama.ac.id/" href="https://fasya.uindatokarama.ac.id/"></use></svg></button></li></ul></div><div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div></div>
           </div>
           <div class="contact-mail-form-popup__form-field form--size-half field--checkbox checkbox--list">
            <fieldset>
@@ -10566,7 +10567,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10584,7 +10585,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10602,7 +10603,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10620,7 +10621,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10638,7 +10639,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10666,7 +10667,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10684,7 +10685,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10702,7 +10703,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10720,7 +10721,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10748,7 +10749,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10766,7 +10767,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10784,7 +10785,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
                     <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                     <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                     <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                      </use>
                     </svg>
                    </span>
@@ -10840,7 +10841,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <span class="checkbox-v2__label-box-wrap">
                <span class="checkbox-v2__label-box">
                 <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                 <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                 <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                  </use>
                 </svg>
                </span>
@@ -10868,7 +10869,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
               <span class="checkbox-v2__label-box-wrap">
                <span class="checkbox-v2__label-box">
                 <svg aria-hidden="true" class="checkbox-v2__label-box-icon" focusable="false">
-                 <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+                 <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
                  </use>
                 </svg>
                </span>
@@ -10901,7 +10902,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -10931,7 +10932,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Tutup Layar Popup
        </span>
        <svg class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
@@ -10957,7 +10958,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <button class="confirm-popup__close">
        <svg class="icon">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
        <span class="hidden">
@@ -10984,7 +10985,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <button class="confirm-popup-v2__close">
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
        <span class="hidden">
@@ -11020,13 +11021,13 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
           <input autocomplete="email" class="text-field-v2__input" id="getStockAlertEmailInput" type="text" value="">
           <button aria-label="Delete" class="text-field-v2__input-icon delete" type="button">
            <svg aria-hidden="true" class="icon delete" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </button>
           <div class="text-field-v2__input-icon error">
            <svg aria-hidden="true" class="icon error" focusable="false">
-            <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+            <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
             </use>
            </svg>
           </div>
@@ -11054,7 +11055,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        Close popup
       </span>
       <svg aria-hidden="true" class="icon" focusable="false">
-       <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+       <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
        </use>
       </svg>
      </button>
@@ -11076,7 +11077,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         Close popup
        </span>
        <svg aria-hidden="true" class="icon" focusable="false">
-        <use href="https://library.uindatokarama.ac.id/" xlink:href="https://library.uindatokarama.ac.id/">
+        <use href="https://fasya.uindatokarama.ac.id/" xlink:href="https://fasya.uindatokarama.ac.id/">
         </use>
        </svg>
       </button>
