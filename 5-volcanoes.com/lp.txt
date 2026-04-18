@@ -29,13 +29,13 @@
     <meta property="og:title" content="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia" />
     <meta property="og:description"
         content="Dengan reputasi yang terus berkembang, MADAMTOTO berhasil menjadi situs togel macau terpercaya 2026 yang direkomendasikan banyak pemain. Jika mencari platform togel online macau terbaik, MADAMTOTO adalah pilihan tepat untuk peluang menang lebih besar." />
-    <meta property="og:url" content="https://lionrunbio.com/" />
+    <meta property="og:url" content="https://5-volcanoes.com/" />
     <meta property="og:image" content="https://abang-cungkok.pages.dev/MadamToto/madam-togel.png" />
     <meta property="og:price:amount" content="456.10" />
     <meta property="og:price:currency" content="IDR" />
-    <link rel="canonical" href="https://lionrunbio.com/" />
+    <link rel="canonical" href="https://5-volcanoes.com/" />
     <link rel="alternate" media="only screen and (max-width: 640px)"
-        href="https://lionrunbio.com/" />
+        href="https://5-volcanoes.com/" />
     <link href="https://paman-cungkok-lang.pages.dev/" rel="amphtml">
       <link rel="alternate" href="https://paman-cungkok-lang.pages.dev/"> 
     <link rel="alternate" href="https://paman-cungkok-lang.pages.dev/" hreflang="ja">
@@ -182,7 +182,7 @@
     <div class="head_wrap">
         <div class="head_middle">
             <div class="wrap_w head_middle_content">
-                <span class="head_logo"><a href="https://lionrunbio.com/"><img
+                <span class="head_logo"><a href="https://5-volcanoes.com/"><img
                             src="https://madamtoto.dataklmsad903.site/images/setting-logo/1/XfcL9BxrBwg9Y4QV.gif"
                             alt="LOGO MADAMTOTO" /></a></span>
                 <span id="categoriesBtn" class="categories_icon">
@@ -203,7 +203,7 @@
                         </div>
                     </form>
                 </div>
-                <a href="https://lionrunbio.com/">
+                <a href="https://5-volcanoes.com/">
                     <div class="head_ship notranslate" id="currencyTop">
                         <div class="ship_select">
                             <div class="ship_state head_selectCurrency">
@@ -226,7 +226,7 @@
                 </div>
                 <div class="head_cart">
                     <span class="cart_quantity" id="BasketQuantity"></span>
-                    <a class="cart_link" href="https://lionrunbio.com/" rel="nofollow"></a>
+                    <a class="cart_link" href="https://5-volcanoes.com/" rel="nofollow"></a>
                     <div class="cart_pro down_cont">
                     </div>
                 </div>
@@ -240,18 +240,18 @@
                 </div>
                 <div class="mask_categories"></div>
                 <div class="head_menu">
-                    <div class="menu_li"><a href="https://lionrunbio.com/">MADAMTOTO</a></div>
-                    <div class="menu_li"><a href="https://lionrunbio.com/">SITUS TOTO</a></div>
-                    <div class="menu_li"><a href="https://lionrunbio.com/">TOGEL 4D</a></div>
+                    <div class="menu_li"><a href="https://5-volcanoes.com/">MADAMTOTO</a></div>
+                    <div class="menu_li"><a href="https://5-volcanoes.com/">SITUS TOTO</a></div>
+                    <div class="menu_li"><a href="https://5-volcanoes.com/">TOGEL 4D</a></div>
                     <div class="menu_li"><a
-                            href="https://lionrunbio.com/">SITUS TOTO
+                            href="https://5-volcanoes.com/">SITUS TOTO
                             MACAU</a></div>
-                    <div class="menu_li"><a href="https://lionrunbio.com/">TOTO TOGEL</a></div>
+                    <div class="menu_li"><a href="https://5-volcanoes.com/">TOTO TOGEL</a></div>
                     <div class="menu_li"><a
-                            href="https://lionrunbio.com/">BANDAR
+                            href="https://5-volcanoes.com/">BANDAR
                             TOGEL</a></div>
                     <div class="menu_li"><a
-                            href="https://lionrunbio.com/">TOTO MACAU</a>
+                            href="https://5-volcanoes.com/">TOTO MACAU</a>
                     </div>
                 </div>
             </div>
@@ -306,13 +306,13 @@
         <!--crumbs-->
 
         <ul id="crumbs" class="crumbs">
-            <li><a class="crumbs_a" href="https://lionrunbio.com/" itemprop="url">TOTO</a><i
+            <li><a class="crumbs_a" href="https://5-volcanoes.com/" itemprop="url">TOTO</a><i
                     class="crumbs_line">/</i></li>
             <li>
                 <div class="jb_farther">
                     <div>
                         <a class="crumbs_a" itemprop="title" title="Computers-Tablets-Accessories"
-                            href="https://lionrunbio.com/">
+                            href="https://5-volcanoes.com/">
                             SITUS TOTO
                         </a>
                     </div>
@@ -323,7 +323,7 @@
                 <div class="jb_farther">
                     <div>
                         <a class="crumbs_a" itemprop="title" title="Computers-Tablets-Accessories"
-                            href="https://lionrunbio.com/">
+                            href="https://5-volcanoes.com/">
                             TOTO TOGEL
                         </a>
                     </div>
@@ -334,7 +334,7 @@
                 <div class="jb_farther">
                     <div>
                         <a class="crumbs_a" itemprop="title" title="Computers-Tablets-Accessories"
-                            href="https://lionrunbio.com/">
+                            href="https://5-volcanoes.com/">
                             TOTO MACAU 4D
                         </a>
                     </div>
@@ -342,7 +342,7 @@
                 </div>
             </li>
             <li>
-                <a class="crumbs_a active" href="https://lionrunbio.com/"
+                <a class="crumbs_a active" href="https://5-volcanoes.com/"
                     itemprop="url">MADAMTOTO</a>
             </li>
 
@@ -374,41 +374,41 @@
                                                     <a class="a2a_button_facebook" data-currencyrate="1.0000"
                                                         data-currency="IDR" data-sharer="facebook"
                                                         data-title="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         data-sku="122487" data-category1="971" data-category2="1974"
                                                         data-category3="1975"
                                                         onclick="turboShare(this); sharetosensors('122487', this);"></a>
                                                     <a class="a2a_button_google_gmail" data-currencyrate="1.0000"
                                                         data-currency="IDR" data-sharer="gmail"
                                                         data-title="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         data-sku="122487" data-category1="971" data-category2="1974"
                                                         data-category3="1975"
                                                         onclick="turboShare(this); sharetosensors('122487', this);"></a>
                                                     <a class="a2a_button_line" data-currencyrate="1.0000"
                                                         data-currency="IDR" data-sharer="line"
                                                         data-title="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         data-sku="122487" data-category1="971" data-category2="1974"
                                                         data-category3="1975"
                                                         onclick="turboShare(this); sharetosensors('122487', this);"></a>
                                                     <a class="a2a_button_x" data-currencyrate="1.0000"
                                                         data-currency="IDR" data-sharer="twitter"
                                                         data-title="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         data-sku="122487" data-category1="971" data-category2="1974"
                                                         data-category3="1975"
                                                         onclick="turboShare(this); sharetosensors('122487', this);"></a>
                                                     <a class="a2a_button_whatsapp" data-currencyrate="1.0000"
                                                         data-currency="IDR" data-sharer="whatsapp"
                                                         data-title="MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         data-sku="122487" data-category1="971" data-category2="1974"
                                                         data-category3="1975"
                                                         onclick="turboShare(this); sharetosensors('122487', this);"></a>
                                                     <span class="share_cont_list share_copy" data-currencyrate="1.0000"
                                                         data-currency="IDR"
-                                                        data-url="https://lionrunbio.com/"
+                                                        data-url="https://5-volcanoes.com/"
                                                         id="copyUrl" data-sku="122487" data-category1="971"
                                                         data-category2="1974" data-category3="1975"
                                                         onclick="turboShare(this)"></span>
@@ -423,11 +423,11 @@
                                     <div class="review_s2" title="5"></div>
                                     <span class="review_val">5</span>
                                 </div>
-                                <span class="brand_name">Brand: <a href="https://lionrunbio.com/"
+                                <span class="brand_name">Brand: <a href="https://5-volcanoes.com/"
                                         target="_blank">MADAMTOTO</a></span>
-                                <a class="product_qa_nums" href="https://lionrunbio.com/"
+                                <a class="product_qa_nums" href="https://5-volcanoes.com/"
                                     rel="nofollow">SITUS TOTO</a>
-                                <a class="product_qa_nums" href="https://lionrunbio.com/"
+                                <a class="product_qa_nums" href="https://5-volcanoes.com/"
                                     rel="nofollow">TOTO TOGEL</a>
                                 <span id="iconCodeDiv1" class="item_code">
                                     <span class="item_code_txt">Item Code:</span><span
@@ -456,8 +456,8 @@
                                             <ul class="attrProperty clearfix notranslate">
 
                                                 <li class="attr active"><a
-                                                        href="https://lionrunbio.com/"
-                                                        data-link="https://lionrunbio.com/"
+                                                        href="https://5-volcanoes.com/"
+                                                        data-link="https://5-volcanoes.com/"
                                                         data-sku="122487" title="Germany" data-product="122487"><span
                                                             class="arrt_text">MASTER ANGKA TOTO TOGEL MACAU
                                                             2026</span></a></li>
@@ -572,7 +572,7 @@
                                                 src="https://img.gkbcdn.com/s3/o/pc/trust_price.png" /></i><span
                                             rel="nofollow">Price Match</span></div>
                                     <a class="bulk_order_link price_bt_cont"
-                                        href="https://lionrunbio.com/"><i
+                                        href="https://5-volcanoes.com/"><i
                                             class="price_bottom_icon"><img
                                                 src="https://img.gkbcdn.com/s3/o/pc/trust_w.png" /></i><span
                                             rel="nofollow">Wholesale</span></a>
@@ -1475,7 +1475,7 @@
                 <div id="goShoppingWindow" class="shop_window">
                     <span class="jbClose" onclick="goClose();"></span>
                     <div class="go_shop"><i class="success_icon"></i><span class="title">0 item(s) added</span></div>
-                    <a href="https://lionrunbio.com/" class="goShopping"><span>View
+                    <a href="https://5-volcanoes.com/" class="goShopping"><span>View
                             Cart</span></a><span class="close" onclick="goClose();">Continue Shopping</span>
                 </div>
                 <div id="shopBg" class="shop_bg" onclick="goClose();"></div>
@@ -1633,7 +1633,7 @@
                                         referrer_guide_page_name = getBlogPageName(referrerPage);
                                     }
 
-                                    else if (referrerPage == "https://lionrunbio.com//") {
+                                    else if (referrerPage == "https://5-volcanoes.com//") {
                                         referrer_page_type = "站内运营位";
                                     }
                                     else {
@@ -1801,7 +1801,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://lionrunbio.com/",
+    "url": "https://5-volcanoes.com/",
     "priceCurrency": "IDR",
     "price": 100,
     "priceValidUntil": "2027-03-03",
@@ -1820,10 +1820,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://lionrunbio.com//#organization",
+  "@id": "https://5-volcanoes.com//#organization",
   "name": "MADAMTOTO",
   "alternateName": "SITUS TOTO TOGEL",
-  "url": "https://lionrunbio.com//",
+  "url": "https://5-volcanoes.com//",
   "logo": {
     "@type": "ImageObject",
     "url": "https://abang-cungkok.pages.dev/MadamToto/madam-togel.png"
@@ -1850,7 +1850,7 @@
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "MADAMTOTO"
       }
     },
@@ -1858,7 +1858,7 @@
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "SITUS TOTO"
       }
     },
@@ -1866,7 +1866,7 @@
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "TOTO TOGEL"
       }
     },
@@ -1874,7 +1874,7 @@
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "Toto Macau"
       }
     },
@@ -1882,7 +1882,7 @@
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "Situs Toto"
       }
     },
@@ -1890,7 +1890,7 @@
       "@type": "ListItem",
       "position": 6,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "Togel Online Terpercaya"
       }
     },
@@ -1898,7 +1898,7 @@
       "@type": "ListItem",
       "position": 7,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "Bandar Toto Online"
       }
     },
@@ -1906,7 +1906,7 @@
       "@type": "ListItem",
       "position": 8,
       "item": {
-        "@id": "https://lionrunbio.com/",
+        "@id": "https://5-volcanoes.com/",
         "name": "MADAMTOTO ⚡️ Situs Togel Online Macau Terpercaya 2026 Resmi & Terbaik no 1 se-indonesia"
       }
     }
@@ -2272,10 +2272,10 @@
 
                     <div id="paymentMenu">
                         <ul class="description_navi wrap_w">
-                            <li class="jb_tabli active"><a class="jb_tabli_a" href="https://lionrunbio.com/">Description</a></li>
-                            <li class="jb_tabli" id="SupportTop"><a class="jb_tabli_a" href="https://lionrunbio.com/">Support &
+                            <li class="jb_tabli active"><a class="jb_tabli_a" href="https://5-volcanoes.com/">Description</a></li>
+                            <li class="jb_tabli" id="SupportTop"><a class="jb_tabli_a" href="https://5-volcanoes.com/">Support &
                                     Firmware</a></li>
-                            <li class="jb_tabli" id="LearnTop"><a class="jb_tabli_a" href="https://lionrunbio.com/">Learn More</a>
+                            <li class="jb_tabli" id="LearnTop"><a class="jb_tabli_a" href="https://5-volcanoes.com/">Learn More</a>
                             </li>
 
                             <div class="fixed_btn">
@@ -2558,7 +2558,7 @@
                                 <div class="glow-inner">
                                  <article>
 <h2 data-section-id="13nrqo" data-start="234" data-end="287"><strong data-start="237" data-end="287">MADAMTOTO Situs Togel Online Terpercaya 2026</strong></h2>
-<p data-start="288" data-end="666">Di tengah banyaknya pilihan platform saat ini, menemukan <strong><a title="situs togel online terpercaya" href="https://lionrunbio.com/">situs togel online terpercaya</a></strong>&nbsp;bukanlah hal yang mudah. Tahun 2026 menghadirkan berbagai situs baru, namun hanya sedikit yang benar-benar memberikan layanan aman dan profesional. Salah satu yang menonjol adalah <strong data-start="559" data-end="574">MADAMTOTO</strong>, yang dikenal sebagai <strong data-start="597" data-end="624">bandar togel terpercaya</strong> dengan reputasi solid di kalangan pemain.</p>
+<p data-start="288" data-end="666">Di tengah banyaknya pilihan platform saat ini, menemukan <strong><a title="situs togel online terpercaya" href="https://5-volcanoes.com/">situs togel online terpercaya</a></strong>&nbsp;bukanlah hal yang mudah. Tahun 2026 menghadirkan berbagai situs baru, namun hanya sedikit yang benar-benar memberikan layanan aman dan profesional. Salah satu yang menonjol adalah <strong data-start="559" data-end="574">MADAMTOTO</strong>, yang dikenal sebagai <strong data-start="597" data-end="624">bandar togel terpercaya</strong> dengan reputasi solid di kalangan pemain.</p>
 <p data-start="668" data-end="885">MADAMTOTO menghadirkan pengalaman bermain yang stabil, cepat, dan mudah diakses kapan saja. Dengan sistem modern dan tampilan user-friendly, pemain pemula maupun profesional dapat menikmati permainan tanpa hambatan.</p>
 <hr data-start="887" data-end="890" />
 <h2 data-section-id="1mn68pe" data-start="892" data-end="953"><strong data-start="895" data-end="953">Keunggulan MADAMTOTO sebagai Bandar Togel Terpercaya</strong></h2>
@@ -2582,7 +2582,7 @@
 <p data-start="1790" data-end="1923">Tidak hanya itu, tersedia juga berbagai <strong data-start="1830" data-end="1855">pasaran togel lengkap</strong> lainnya yang memberikan variasi permainan lebih luas bagi pengguna.</p>
 <hr data-start="1925" data-end="1928" />
 <h2 data-section-id="1uflwnp" data-start="1930" data-end="1976"><strong data-start="1933" data-end="1976">Sistem Keamanan dan Layanan Profesional</strong></h2>
-<p data-start="1977" data-end="2187">Keamanan menjadi faktor penting dalam memilih <a title="situs Bandar togel " href="https://lionrunbio.com/">situs Bandar togel </a><strong data-start="2023" data-end="2048">aman</strong>. MADAMTOTO menggunakan teknologi enkripsi terbaru untuk melindungi data pengguna serta memastikan setiap transaksi berjalan dengan aman.</p>
+<p data-start="1977" data-end="2187">Keamanan menjadi faktor penting dalam memilih <a title="situs Bandar togel " href="https://5-volcanoes.com/">situs Bandar togel </a><strong data-start="2023" data-end="2048">aman</strong>. MADAMTOTO menggunakan teknologi enkripsi terbaru untuk melindungi data pengguna serta memastikan setiap transaksi berjalan dengan aman.</p>
 <p data-start="2189" data-end="2423">Selain itu, layanan customer service tersedia 24 jam nonstop untuk membantu segala kebutuhan pemain. Tim support yang responsif menjadi nilai tambah yang memperkuat posisi MADAMTOTO sebagai <strong data-start="2381" data-end="2408">bandar togel terpercaya</strong> di tahun 2026.</p>
 <hr data-start="2425" data-end="2428" />
 <h2 data-section-id="brrp9f" data-start="2430" data-end="2470"><strong data-start="2433" data-end="2470">Bonus Menarik dan Transaksi Mudah</strong></h2>
@@ -2596,7 +2596,7 @@
 <p data-start="2841" data-end="2951">Kemudahan ini menjadi salah satu alasan mengapa banyak pemain memilih situs ini sebagai platform utama mereka.</p>
 <hr data-start="2953" data-end="2956" />
 <h2 data-section-id="wfdlmi" data-start="2958" data-end="2975"><strong data-start="2961" data-end="2975">Kesimpulan</strong></h2>
-<p data-start="2976" data-end="3325">Secara keseluruhan, MADAMTOTO merupakan pilihan tepat bagi siapa saja yang mencari&nbsp;<strong><a title="situs togel online terpercaya" href="https://lionrunbio.com/">situs togel online terpercaya</a></strong><strong data-start="3061" data-end="3099">&nbsp;2026</strong> dengan pasaran <strong data-start="3115" data-end="3137">Toto Macau terbaik</strong>. Dengan kombinasi antara keamanan, pelayanan profesional, sistem stabil, dan bonus menarik, MADAMTOTO berhasil menjadi salah satu <strong data-start="3270" data-end="3297">bandar togel terpercaya</strong> yang layak dipertimbangkan.</p>
+<p data-start="2976" data-end="3325">Secara keseluruhan, MADAMTOTO merupakan pilihan tepat bagi siapa saja yang mencari&nbsp;<strong><a title="situs togel online terpercaya" href="https://5-volcanoes.com/">situs togel online terpercaya</a></strong><strong data-start="3061" data-end="3099">&nbsp;2026</strong> dengan pasaran <strong data-start="3115" data-end="3137">Toto Macau terbaik</strong>. Dengan kombinasi antara keamanan, pelayanan profesional, sistem stabil, dan bonus menarik, MADAMTOTO berhasil menjadi salah satu <strong data-start="3270" data-end="3297">bandar togel terpercaya</strong> yang layak dipertimbangkan.</p>
 </article>                          
 <div style="max-width:1000px;margin:20px auto;font-family:Arial,Helvetica,sans-serif;color:#111;">
     <h2 style="text-align: center; color: #ff4800; margin-bottom: 10px; font-weight: bold;">
@@ -4157,7 +4157,7 @@
 
     <!--End of hidden field-->
     <script>
-        var httpsrooturl = "https://lionrunbio.com/";
+        var httpsrooturl = "https://5-volcanoes.com/";
     </script>
     <script type="text/javascript" src="//static.gkbcdn.com/V1.4/en/js/jb_product.min.js?v=260204"></script>
     <script defer src="//static.gkbcdn.com/V1.4/en/js/review.js?v=260204" type="text/javascript"></script>
@@ -4780,51 +4780,51 @@
             <div class="help_document">
                 <div class="help_list">
                     <strong>Help</strong>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="How to order"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="How to order"
                             rel="nofollow">How to order</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="How to track"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="How to track"
                             rel="nofollow">How to track</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="About us"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="About us"
                             rel="nofollow">About us</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Contact us"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Contact us"
                             rel="nofollow">Contact us</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Warranty"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Warranty"
                             rel="nofollow">Warranty</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="FAQs"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="FAQs"
                             rel="nofollow">FAQs</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Order status"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Order status"
                             rel="nofollow">Order status</a></span>
-                    <a href="https://lionrunbio.com/">Sitemap</a>
+                    <a href="https://5-volcanoes.com/">Sitemap</a>
 
                 </div>
                 <div class="help_list">
                     <strong>Support</strong>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Shipping guide"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Shipping guide"
                             rel="nofollow">Shipping guide</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/"
+                    <span class="help_link"><a href="https://5-volcanoes.com/"
                             title="Payment information" rel="nofollow">Payment information</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Wholesale"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Wholesale"
                             rel="nofollow">Wholesale</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Drop shipping"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Drop shipping"
                             rel="nofollow">Drop shipping</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Affiliates"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Affiliates"
                             rel="nofollow">Affiliates</a></span>
-                    <a href="https://lionrunbio.com/">Blog</a>
+                    <a href="https://5-volcanoes.com/">Blog</a>
 
                 </div>
                 <div class="help_list">
                     <strong>Policies</strong>
-                    <span class="help_link"><a href="https://lionrunbio.com/"
+                    <span class="help_link"><a href="https://5-volcanoes.com/"
                             title="Terms &amp; conditions" rel="nofollow">Terms &amp; conditions</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Return policy"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Return policy"
                             rel="nofollow">Return policy</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Privacy"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Privacy"
                             rel="nofollow">Privacy</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Declaration"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Declaration"
                             rel="nofollow">Declaration</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/" title="Customs"
+                    <span class="help_link"><a href="https://5-volcanoes.com/" title="Customs"
                             rel="nofollow">Customs</a></span>
-                    <span class="help_link"><a href="https://lionrunbio.com/"
+                    <span class="help_link"><a href="https://5-volcanoes.com/"
                             onclick="showManageCookie();" title="Manage Your Cookies Settings" rel="nofollow">Manage
                             Your Cookies Settings</a></span>
 
@@ -4861,7 +4861,7 @@
                                     data-cfemail="1261777d7026667f267c52757f737b7e3c717d7f">[email&#160;protected]</span></a>
                             <span class="ticket_gk ticket_login"><span
                                     class="ticket_icon gkb_icon_ticket"></span>Ticket</span>
-                            <a href="https://lionrunbio.com/" rel="nofollow"
+                            <a href="https://5-volcanoes.com/" rel="nofollow"
                                 onclick="callcomm100ApiOpen(); return false;"> <span
                                     class=" live_chat_icon gkb_icon_live_chat"></span>Live Chat</a>
                         </div>
@@ -4899,24 +4899,24 @@
         <div class="foot_popular wrap_w">
             <strong>Popular Searches</strong>
             <div class="popular_link">
-                <a href="https://lionrunbio.com/">MADAMTOTO</a>
-                <a href="https://lionrunbio.com/">SITUS TOTO</a>
-                <a href="https://lionrunbio.com/">TOTO TOGEL</a>
-                <a href="https://lionrunbio.com/">SITUS TOTO MACAU</a>
-                <a href="https://lionrunbio.com/">BANDAR TOGEL</a>
-                <a href="https://lionrunbio.com/">TOGEL 4D</a>
-                <a href="https://lionrunbio.com/">TOTO</a>
+                <a href="https://5-volcanoes.com/">MADAMTOTO</a>
+                <a href="https://5-volcanoes.com/">SITUS TOTO</a>
+                <a href="https://5-volcanoes.com/">TOTO TOGEL</a>
+                <a href="https://5-volcanoes.com/">SITUS TOTO MACAU</a>
+                <a href="https://5-volcanoes.com/">BANDAR TOGEL</a>
+                <a href="https://5-volcanoes.com/">TOGEL 4D</a>
+                <a href="https://5-volcanoes.com/">TOTO</a>
             </div>
         </div>
 
         <div class="foot_payment wrap_w">
             <img class="payment_icon lazy_img" src="data:image/jpg;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                 data-original="https://img.gkbcdn.com/s3/o/pc/global_f_payepent.png" />
-            <a class="geek_reviews" href="https://lionrunbio.com/" target="_blank" rel="nofollow">
+            <a class="geek_reviews" href="https://5-volcanoes.com/" target="_blank" rel="nofollow">
                 <img class="lazy_img" src="data:image/jpg;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                     data-original="https://img.gkbcdn.com/s3/o/pc/foot_reseller.png" />
             </a>
-            <a class="geek_trustpilot" href="https://lionrunbio.com/" target="_blank"
+            <a class="geek_trustpilot" href="https://5-volcanoes.com/" target="_blank"
                 rel="nofollow">
                 <img class="lazy_img" src="data:image/jpg;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
                     data-original="https://img.gkbcdn.com/s3/o/pc/foot_trustpilot.png" />
