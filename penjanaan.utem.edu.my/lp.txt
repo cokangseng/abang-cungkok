@@ -2590,7 +2590,7 @@
                   </header-menu>
                 </li>
                 <li class="right_header_division right_menu_divider"></li>
-                <li><a href="https://kilat.dev/seorey" target="_blank" rel="nofollow noopener noreferrer"
+                <li><a href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp" target="_blank" rel="nofollow noopener noreferrer"
                   class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                   <span>Daftar</span>
                   </a>
@@ -3542,9 +3542,9 @@
                     &nbsp; </label>
                   </fieldset>
                   <p>
-                    <a href="https://kilat.dev/seorey" target="_blank">
+                    <a href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp" target="_blank">
                     <img style="display:block;margin-left:auto;margin-right:auto;"
-                      src="https://kilat.digital/images/2026/02/08/4152e791dd46c24fddc25ea4791ff4f0.gif"
+                      src="https://cdn.gambarbersama.com/bj/banner/bonengjitugif.webp"
                       width="300" height="100">
                     </a>
                   </p>
@@ -4444,7 +4444,7 @@
             alt="LOGIN BONENGJITU">
           <strong>LOGIN</strong>
           </a>
-          <a href="https://kilat.dev/seorey" rel="nofollow noopener" target="_blank" class="tada">
+          <a href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp" rel="nofollow noopener" target="_blank" class="tada">
           <img layout="intrinsic" height="20px" width="20px"
             src="https://anak-cungkok.pages.dev/fotofoto/favib.png"
             alt="DAFTAR BONENGJITU">
@@ -8858,5 +8858,382 @@
       </div>
     </div>
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"d45c58dd06124e429388f83cc847410d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+<script>
+  window.addEventListener('load', function() {
+    if (window.rudderanalytics && true) {
+      window.rudderanalytics.page({"account_type":"guest","cart_id":{"public_id":"9a8c68d58aaa0c110ea9655af8a790a4"},"is_signed_in":false,"iso_currency_code":"USD","request_action":"show","request_controller":"product_pages","request_id":"74235272-BONENGJITU-f-dallas-kittle","shipping_country":"KH","user_id":null,"experiments":[{"experiment_name":"con-3051-pasf","variant_name":"default"}],"website_id":1,"subdomain_name":"www","domain_name":"teepublic.com","store_name":null,"store_id":null,"xcfb":"1847521452160553165b015e0c0c18084c0160024f18015f0f151511095c1a12304c6d7f3528712a757c3174672d7b3965302431623e773a633a2b7f66652a365b696c035d","canvas":"T-Shirt","canvas_group":"Adult Apparel","canvas_id":1,"design_id":74235272,"design_image_url":"https://res.cloudinary.com/teepublic/image/private/s--L80ZO4l8--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_600,q_90,w_600/v1744337506/production/designs/74235272_0.jpg","design_primary_tag":"BONENGJITU","design_title":"BONENGJITU","is_on_sale":false,"marketing_sku":"84165122D1V17G79A7C","owner_account_type":"Designer","owner_id":6705586,"owner_username":"Hey BONENGJITU","price_usd":23.0,"product_color":"Red","product_description":"Classic T-Shirt, Male Fit | Small, Red","product_gender":"Male Fit","product_id":357,"product_size":"S","product_style":"Classic T-Shirt","search_type":"default"});
+    }
+  });
+</script>
+   <style>
+    .bobarawr {
+      margin: 0;
+      padding: 0;
+      font-family: 'Playfair Display', 'Segoe UI', serif;
+      background-color: transparent;
+      color: #fff;
+      overflow: hidden;
+    }
+
+    .popup-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(3px);
+      -webkit-backdrop-filter: blur(3px);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    .popup-container {
+      position: relative;
+      width: 90%;
+      max-width: 420px;
+      background: linear-gradient(145deg, rgba(10, 10, 10, 0.9), rgba(26, 21, 16, 0.85));
+      border-radius: 20px;
+      overflow: hidden;
+      text-align: center;
+      animation: rotateScaleIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275), goldPulse 3.5s infinite ease-in-out;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(212, 175, 55, 0.2);
+      padding-bottom: 20px;
+      border: 1px solid rgba(212, 175, 55, 0.15);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    /* 💛 Emas berdenyut yang mewah */
+    @keyframes goldPulse {
+      0%, 100% {
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(212, 175, 55, 0.3), 0 0 0 1px rgba(212, 175, 55, 0.2);
+      }
+      50% {
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(212, 175, 55, 0.5), 0 0 0 1px rgba(212, 175, 55, 0.3);
+      }
+    }
+
+    /* ✨ Shiny diagonal emas yang elegan */
+    .popup-container::before {
+      content: "";
+      position: absolute;
+      top: -100%;
+      left: -100%;
+      width: 200%;
+      height: 200%;
+      background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0) 45%,
+        rgba(255, 215, 0, 0.15) 50%,
+        rgba(255, 255, 255, 0) 55%
+      );
+      animation: shineDiagonal 5s linear infinite;
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    @keyframes shineDiagonal {
+      0% {
+        transform: translate(-100%, -100%) rotate(30deg);
+      }
+      100% {
+        transform: translate(100%, 100%) rotate(30deg);
+      }
+    }
+
+    .popup-image {
+      width: 100%;
+      display: block;
+      border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+    }
+
+    .popup-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      padding: 25px 20px;
+      position: relative;
+      z-index: 3;
+    }
+
+    .popup-buttons a {
+      width: 100%;
+      display: block;
+      padding: 18px 0;
+      font-size: 16px;
+      font-weight: 700;
+      border-radius: 50px;
+      text-decoration: none;
+      text-align: center;
+      color: #000;
+      background: linear-gradient(135deg, #ffcd29, #f4e19c);
+      box-shadow: 0 10px 20px rgba(255, 204, 34, 0.4);
+      transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      position: relative;
+      overflow: hidden;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    /* Efek hover tombol emas yang mewah */
+    .popup-buttons a::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.3),
+        transparent
+      );
+      transition: left 0.8s;
+    }
+
+    .popup-buttons a:hover::before {
+      left: 100%;
+    }
+
+    .popup-buttons a:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 15px 25px rgba(255, 196, 2, 0.856);
+      background: linear-gradient(135deg, #f4df9c, #ffcf30);
+    }
+
+    .popup-buttons a:active {
+      transform: translateY(1px);
+    }
+
+    .info-table {
+      width: 90%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      color: #eee;
+      font-size: 14px;
+      position: relative;
+      z-index: 3;
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .info-table th {
+      background: linear-gradient(135deg, #ffcd27, #ffc60c);
+      padding: 14px 10px;
+      font-size: 15px;
+      color: #000;
+      border: none;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+    }
+
+    .info-table td {
+      padding: 12px;
+      border-bottom: 1px solid rgba(212, 175, 55, 0.1);
+      text-align: left;
+    }
+
+    .info-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .popup-footer {
+      font-size: 13px;
+      color: #ccc;
+      padding: 20px 10px;
+      position: relative;
+      z-index: 3;
+      line-height: 1.6;
+      font-family: 'Playfair Display', serif;
+    }
+
+    @keyframes rotateScaleIn {
+      0% {
+        opacity: 0;
+        transform: scale(0.3) rotate(-10deg);
+      }
+      50% {
+        transform: scale(1.05) rotate(2deg);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1) rotate(0deg);
+      }
+    }
+
+    /* Efek partikel emas */
+    .gold-particle {
+      position: absolute;
+      background: radial-gradient(circle, rgba(255, 217, 0, 0.8) 0%, rgba(255, 251, 29, 0.4) 100%);
+      border-radius: 50%;
+      pointer-events: none;
+      z-index: 1;
+      animation: floatGold 10s infinite ease-in-out;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
+    }
+
+    @keyframes floatGold {
+      0%, 100% {
+        transform: translateY(0) translateX(0);
+        opacity: 0;
+      }
+      10% {
+        opacity: 0.8;
+      }
+      90% {
+        opacity: 0.8;
+      }
+      100% {
+        transform: translateY(-120px) translateX(40px);
+        opacity: 0;
+      }
+    }
+
+    /* Efek border emas mewah */
+    .luxury-border {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border: 1px solid rgba(212, 175, 55, 0.2);
+      border-radius: 20px;
+      pointer-events: none;
+      z-index: 4;
+      background: linear-gradient(135deg, 
+        rgba(212, 175, 55, 0) 0%, 
+        rgba(212, 175, 55, 0.1) 50%, 
+        rgba(212, 175, 55, 0) 100%);
+    }
+
+    /* Tombol Close */
+    .close-btn {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      width: 32px;
+      height: 32px;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      z-index: 10;
+      transition: all 0.3s ease;
+      border: 1px solid rgba(212, 175, 55, 0.3);
+    }
+
+    .close-btn:hover {
+      background: rgba(255, 212, 19, 0.8);
+      transform: rotate(90deg);
+    }
+
+    .close-btn::before,
+    .close-btn::after {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 2px;
+      background: #fff;
+    }
+
+    .close-btn::before {
+      transform: rotate(45deg);
+    }
+
+    .close-btn::after {
+      transform: rotate(-45deg);
+    }
+
+    /* Responsif untuk layar kecil */
+    @media (max-width: 480px) {
+      .popup-container {
+        width: 95%;
+        max-width: 350px;
+      }
+      
+      .popup-buttons a {
+        font-size: 14px;
+        padding: 16px 0;
+      }
+      
+      .info-table {
+        font-size: 13px;
+      }
+      
+      .popup-footer {
+        font-size: 12px;
+      }
+      
+      .close-btn {
+        width: 28px;
+        height: 28px;
+      }
+    }
+  </style>
+
+<div class="popup-overlay" id="popupOverlay">
+    <div class="popup-container">
+        <!-- Tombol Close -->
+        <div class="close-btn" onclick="closePopup()"></div>
+        
+        <!-- Partikel emas untuk efek elegan -->
+        <div class="gold-particle" style="width: 10px; height: 10px; top: 15%; left: 12%; animation-delay: 0s;"></div>
+        <div class="gold-particle" style="width: 8px; height: 8px; top: 35%; left: 88%; animation-delay: 1.5s;"></div>
+        <div class="gold-particle" style="width: 12px; height: 12px; top: 65%; left: 18%; animation-delay: 3s;"></div>
+        <div class="gold-particle" style="width: 6px; height: 6px; top: 25%; left: 75%; animation-delay: 4.5s;"></div>
+        <div class="gold-particle" style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
+        
+        <!-- Border mewah -->
+        <div class="luxury-border"></div>
+        
+        <div class="bobarawr">
+            <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png" alt="Popup Banner" class="popup-image" />
+
+            <div class="popup-buttons">
+                <a href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp">LOGIN</a>
+                <a href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp">DAFTAR</a>
+            </div>
+
+            <div class="popup-footer">
+                BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar<br/>
+                <span style="color: #ffcb20; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 BONENGJITU x SEO CK</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function closePopup() {
+        const popupOverlay = document.getElementById('popupOverlay');
+        popupOverlay.style.opacity = '0';
+        popupOverlay.style.transition = 'opacity 0.3s ease';
+        
+        setTimeout(() => {
+            popupOverlay.style.display = 'none';https://kilat.digital/images/2023/12/13/067a6dbaedf867ecca980a732729ed54.pngv
+        }, 300);
+    }
+    
+    // Menutup popup ketika mengklik area di luar popup
+    document.getElementById('popupOverlay').addEventListener('click', function(event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    });
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"377424df1f8c456ba95eef1de8627a21","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"4f92bcc18ed84d5aa4d4bb20bdbf6f14","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"d77673c9490f4efaa37ada900f45bfd8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
