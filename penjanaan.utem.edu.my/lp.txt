@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="canonical" href="https://penjanaan.utem.edu.my/">
+    <link rel="canonical" href="https://care.utem.edu.my/">
     <link rel="alternate" href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp">
     <link rel="alternate" href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp" hreflang="ja">
     <link rel="alternate" href="https://abang-cungkok.pages.dev/penjanaan.utem.edu.my/amp" hreflang="en">
@@ -45,7 +45,7 @@
       content="BONENGJITU adalah situs akses bandar toto Macau resmi 2026 dengan winrate tinggi, bonus melimpah, dan sistem keamanan terbaik. Bergabung sekarang dan nikmati peluang jackpot setiap hari dengan layanan profesional.">
                              <meta name="keywords" content="BONENGJITU, bonengjitu alternatif, login bonengjitu, daftar bonengjitu, bonengjitu login, bonengjitu daftar, situs macau, bandar macau" />	
     <meta property="og:site_name" content="BONENGJITU">
-    <meta property="og:url" content="https://penjanaan.utem.edu.my/">
+    <meta property="og:url" content="https://care.utem.edu.my/">
     <meta property="og:title"
       content="BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar">
     <meta property="og:type" content="product">
@@ -224,7 +224,7 @@
       {
         "@context": "https://schema.org",
         "@type": "Product",
-        "url": "https://penjanaan.utem.edu.my/",
+        "url": "https://care.utem.edu.my/",
         "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
         "sku": "BONENGJITU",
         "description": "BONENGJITU adalah situs akses bandar toto Macau resmi 2026 dengan winrate tinggi, bonus melimpah, dan sistem keamanan terbaik. Bergabung sekarang dan nikmati peluang jackpot setiap hari dengan layanan profesional.",
@@ -347,47 +347,47 @@
           "@type": "ListItem",
           "position": 1,
           "name": "BONENGJITU",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 2,
           "name": "Link Togel",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 3,
           "name": "Togel Online",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 4,
           "name": "Link Togel Online",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 5,
           "name": "Togel Terpercaya",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 6,
           "name": "Bandar Toto",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 7,
           "name": "Toto Macau",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 8,
           "name": "Bandar Toto Macau",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }, {
           "@type": "ListItem",
           "position": 9,
           "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
-          "item": "https://penjanaan.utem.edu.my/"
+          "item": "https://care.utem.edu.my/"
         }]
       }
     </script>
@@ -396,27 +396,27 @@
         "@context": "https://schema.org",
         "@graph": [{
           "@type": "Organization",
-          "@id": "https://penjanaan.utem.edu.my/#org",
+          "@id": "https://care.utem.edu.my/#org",
           "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
-          "url": "https://penjanaan.utem.edu.my/",
+          "url": "https://care.utem.edu.my/",
           "logo": "https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png"
         }, {
           "@type": "WebSite",
-          "@id": "https://penjanaan.utem.edu.my/#website",
-          "url": "https://penjanaan.utem.edu.my/",
+          "@id": "https://care.utem.edu.my/#website",
+          "url": "https://care.utem.edu.my/",
           "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
           "publisher": {
-            "@id": "https://penjanaan.utem.edu.my/#org"
+            "@id": "https://care.utem.edu.my/#org"
           },
           "inLanguage": "id-ID",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://penjanaan.utem.edu.my/?s={search_term_string}",
+            "target": "https://care.utem.edu.my/?s={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         }, {
           "@type": "SoftwareApplication",
-          "@id": "https://penjanaan.utem.edu.my/#app",
+          "@id": "https://care.utem.edu.my/#app",
           "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
           "applicationCategory": "GameApplication",
           "operatingSystem": "Android, iOS, Windows",
@@ -2160,7 +2160,7 @@
           </script>
           <div class="header__heading">
             <div class="brand--logo">
-              <a href="https://penjanaan.utem.edu.my/" target="_blank"
+              <a href="https://care.utem.edu.my/" target="_blank"
                 rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset"
                 aria-label="Home">
                 <div class="ratio" style="--ratio-percent: 25.875000000000004%">
@@ -2403,7 +2403,7 @@
                       <summary id="headerCss HeaderMenu-mac"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-1">
-                        <p><a href="https://penjanaan.utem.edu.my/">BONENGJITU</a></p>
+                        <p><a href="https://care.utem.edu.my/">BONENGJITU</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2424,7 +2424,7 @@
                       <summary id="headerCss HeaderMenu-ipad"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-2">
-                        <p><a href="https://penjanaan.utem.edu.my/">Link Togel</a></p>
+                        <p><a href="https://care.utem.edu.my/">Link Togel</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2445,7 +2445,7 @@
                       <summary id="headerCss HeaderMenu-iphone"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-3">
-                        <p><a href="https://penjanaan.utem.edu.my/">Togel Online</a></p>
+                        <p><a href="https://care.utem.edu.my/">Togel Online</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2466,7 +2466,7 @@
                       <summary id="headerCss HeaderMenu-watch"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-4">
-                        <p><a href="https://penjanaan.utem.edu.my/">Link Togel Online</a>
+                        <p><a href="https://care.utem.edu.my/">Link Togel Online</a>
                         </p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
@@ -2488,7 +2488,7 @@
                       <summary id="headerCss HeaderMenu-music"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-5">
-                        <p><a href="https://penjanaan.utem.edu.my/">Togel Terpercaya</a>
+                        <p><a href="https://care.utem.edu.my/">Togel Terpercaya</a>
                         </p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
@@ -2510,7 +2510,7 @@
                       <summary id="headerCss HeaderMenu-tv-home"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-6">
-                        <p><a href="https://penjanaan.utem.edu.my/">Bandar Toto</a></p>
+                        <p><a href="https://care.utem.edu.my/">Bandar Toto</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2531,7 +2531,7 @@
                       <summary id="headerCss HeaderMenu-accessories"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-7">
-                        <p><a href="https://penjanaan.utem.edu.my/">Toto Macau</a></p>
+                        <p><a href="https://care.utem.edu.my/">Toto Macau</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2552,7 +2552,7 @@
                       <summary id="headerCss HeaderMenu-services"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-8">
-                        <p><a href="https://penjanaan.utem.edu.my/">Bandar Toto Macau</a>
+                        <p><a href="https://care.utem.edu.my/">Bandar Toto Macau</a>
                         </p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
@@ -2574,7 +2574,7 @@
                       <summary id="headerCss HeaderMenu-offers"
                         class="header__menu-item list-menu__item link focus-inset" role="button"
                         aria-expanded="false" aria-controls="HeaderMenu-MenuList-9">
-                        <p><a href="https://penjanaan.utem.edu.my/">Togel Macau</a></p>
+                        <p><a href="https://care.utem.edu.my/">Togel Macau</a></p>
                         <svg aria-hidden="true" focusable="false" class="icon icon-caret"
                           viewBox="0 0 10 6">
                           <path fill-rule="evenodd" clip-rule="evenodd"
@@ -2619,7 +2619,7 @@
           "@context": "https://schema.org",
           "@type": "Organization",
           "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
-          "url": "https://penjanaan.utem.edu.my/",
+          "url": "https://care.utem.edu.my/",
           "sameAs": ["https://www.facebook.com/", "https://www.instagram.com/", "https://www.youtube.com/"]
         }
       </script>
@@ -2673,7 +2673,7 @@
       <div class="nav-left-arrow"></div>
       <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1757657996&amp;width=100"
@@ -2692,7 +2692,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1757657995&amp;width=100"
@@ -2711,7 +2711,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1757657995&amp;width=100"
@@ -2730,7 +2730,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1740017919&amp;width=100"
@@ -2749,7 +2749,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1731047537&amp;width=100"
@@ -2767,7 +2767,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1731636011&amp;width=100"
@@ -2786,7 +2786,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1731636011&amp;width=100"
@@ -2805,7 +2805,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer">
             <div class="list-lob">
               <div class="imagecontainer ratio" style="--ratio-percent: 100%;">
                 <img src="https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1731636011&amp;width=100"
@@ -2824,7 +2824,7 @@
           </a>
         </div>
         <div class="apl_lob_list_item end_lob_text">
-          <a href="https://penjanaan.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer"
+          <a href="https://care.utem.edu.my/" target="_blank" rel="nofollow noopener noreferrer"
             class="end_lob_title">
             <span class="end_title_anchor">
               View All iPhone 
@@ -4025,7 +4025,7 @@
                         type="button" aria-haspopup="dialog">Pelajari
                         Selengkapnya</button>
                       </modal-opener>
-                      <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                      <a href="https://care.utem.edu.my/" target="_blank"
                         rel="nofollow noopener noreferrer"
                         class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
                     </div>
@@ -4136,7 +4136,7 @@
                           class="share-button__message hidden" role="status"> </span>
                         <input type="text" class="field__input"
                           id="ShareUrl-template--17605519376564__main"
-                          value="https://penjanaan.utem.edu.my/" placeholder="Link"
+                          value="https://care.utem.edu.my/" placeholder="Link"
                           onclick="this.select();" readonly="">
                         <label class="field__label"
                           for="ShareUrl-template--17605519376564__main">Link</label>
@@ -4172,7 +4172,7 @@
                     color: #ffffff;
                     }
                   </style>
-                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://penjanaan.utem.edu.my/&amp;quote=Check%20this%20product%20out.%0A"
+                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://care.utem.edu.my/&amp;quote=Check%20this%20product%20out.%0A"
                     class="facebook_icon" id="true" target="_blank" aria-label="Facebook">
                     <svg aria-hidden="true" focusable="false" class="icon icon-facebook"
                       viewBox="0 0 20 20">
@@ -4181,7 +4181,7 @@
                       </path>
                     </svg>
                   </a>
-                  <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&amp;url=https://penjanaan.utem.edu.my/"
+                  <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&amp;url=https://care.utem.edu.my/"
                     class="twitter_icon" id="True" target="_blank" aria-label="Twitter">
                     <svg aria-hidden="true" focusable="false" class="icon icon-twitter"
                       viewBox="0 0 20 20">
@@ -4190,7 +4190,7 @@
                       </path>
                     </svg>
                   </a>
-                  <a href="https://pinterest.com/pin/create/button/?url=https://penjanaan.utem.edu.my/&amp;description="
+                  <a href="https://pinterest.com/pin/create/button/?url=https://care.utem.edu.my/&amp;description="
                     class="pinterest_icon" target="_blank" aria-label="Pinterest">
                     <svg aria-hidden="true" focusable="false" class="icon icon-pinterest"
                       viewBox="0 0 20 20">
@@ -4361,7 +4361,7 @@
               "@context": "https://schema.org",
               "@type": "Product",
               "name": "BONENGJITU ⚡️ Akses Bandar Toto Macau Resmi 2026 Situs Terpercaya Winrate Tinggi & Bonus Besar",
-              "url": "https://penjanaan.utem.edu.my/",
+              "url": "https://care.utem.edu.my/",
               "image": ["https://abang-cungkok.pages.dev/BonengJitu/bandar-macau.png?v=1757450054&width=823"],
               "description": "BONENGJITU adalah situs akses bandar toto Macau resmi 2026 dengan winrate tinggi, bonus melimpah, dan sistem keamanan terbaik. Bergabung sekarang dan nikmati peluang jackpot setiap hari dengan layanan profesional.",
               "sku": "BONENGJITU",
@@ -4376,7 +4376,7 @@
                 "availability": "https://schema.org/OutOfStock",
                 "price": 999.00,
                 "priceCurrency": "SGD",
-                "url": "https://penjanaan.utem.edu.my/"
+                "url": "https://care.utem.edu.my/"
               }]
             }
           </script>
@@ -4772,7 +4772,7 @@
             </h1>
           </div>
           <br>
-          <p style="text-align: justify; color: #000000;"><a href="https://penjanaan.utem.edu.my/"
+          <p style="text-align: justify; color: #000000;"><a href="https://care.utem.edu.my/"
             style="color: #b80000; text-decoration: none;">BONENGJITU</a> datang sebagai link togel online
             terpercaya nomor 1 di Indonesia, yang menawarkan pengalaman bermain pasang angka secara praktis,
             melalui platform bandar toto Macau resmi. Sebagai sumber link togel online terpercaya, BONENGJITU
@@ -4785,7 +4785,7 @@
           <h2><strong>Link Togel Online Menyajikan Pasaran Toto Terlengkap</strong></h2>
           <br>
           <p style="text-align: justify; color: #000000;">BONENGJITU adalah <a
-            href="https://penjanaan.utem.edu.my/"
+            href="https://care.utem.edu.my/"
             style="color: #b80000; text-decoration: none;">bandar togel</a> resmi berlisensi dan telah
             membawa banyak jenis pasaran toto ternama. Platform togel online ini telah menggunakan sistem
             enkripsi keamanan berlapis, sehingga tingkat keamanan terhadap situs BONENGJITU tidak perlu
@@ -4798,7 +4798,7 @@
           <h2><strong>Sumber Pasaran Terpercaya Bandar Toto Macau</strong></h2>
           <br>
           <p style="text-align: justify; color: #000000;">BONENGJITU telah bekerja sama dengan platform <a
-            href="https://penjanaan.utem.edu.my/"
+            href="https://care.utem.edu.my/"
             style="color: #b80000; text-decoration: none;">bandar toto macau</a> resmi dan sudah menjadi
             pasaran favorit dikalangan pemain. Pasaran toto Macau di BONENGJITU menawarkan jadwal live draw
             yang lebih sering, serta memberikan peluang menang lebih besar pagi pecinta pasaran ini. Memainkan
@@ -4811,7 +4811,7 @@
           <h2><strong>Prediksi Togel Akurat Buat Gampang Menang</strong></h2>
           <br>
           <p style="text-align: justify; color: #000000;">Kemenangan menjadi lebih mudah digapai, berkat fitur <a
-            href="https://penjanaan.utem.edu.my/"
+            href="https://care.utem.edu.my/"
             style="color: #b80000; text-decoration: none;">prediksi togel</a> jitu dari BONENGJITU.
             Prediksi togel di sini telah disusun oleh tim ahli analisis pola keluaran angka pada periode
             sebelumnya. Sumber prediksi togel di sini dapat digunakan sebagai panduan sebelum melakukan
@@ -5304,49 +5304,49 @@
             <div class="panel2">
               <ul class="footer-block__details-content list-unstyled">
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   BONENGJITU </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Link Togel </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Togel Online </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Link Togel Online </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Togel Terpercaya </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Bandar Toto </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Toto Macau </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Bandar Toto Macau </a>
                 </li>
@@ -5579,13 +5579,13 @@
                   Togel Online </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Bandar Toto Macau </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   BONENGJITU </a>
@@ -5606,7 +5606,7 @@
                   Corporate </a>
                 </li>
                 <li>
-                  <a href="https://penjanaan.utem.edu.my/" target="_blank"
+                  <a href="https://care.utem.edu.my/" target="_blank"
                     rel="nofollow noopener noreferrer"
                     class="footer_content_list link link--text list-menu__item list-menu__item--link">
                   Togel Macau </a>
@@ -5888,7 +5888,7 @@
                   </div>
                   <div class="copyrightCss footer__copyright caption">
                     <span class="copyright__content">© 2026, <a
-                      href="https://penjanaan.utem.edu.my/" target="_blank"
+                      href="https://care.utem.edu.my/" target="_blank"
                       title="">BONENGJITU</a></span>
                     <span class="copyright__content"><a target="_blank"
                       rel="nofollow noopener noreferrer"
@@ -8779,7 +8779,7 @@
                     <li>Fitur Mumpuni Link Togel Online Modern Dengan Pelayanan Terbaik</li>
                   </ul>
                 </div>
-                <a class="apple-care-modal__cta" href="https://penjanaan.utem.edu.my/"
+                <a class="apple-care-modal__cta" href="https://care.utem.edu.my/"
                   target="_blank" rel="nofollow noopener noreferrer">
                 <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+
                 BONENGJITU</span>
