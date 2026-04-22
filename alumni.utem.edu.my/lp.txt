@@ -9,8 +9,8 @@
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="googlebot" content="index, follow">
 <link rel="amphtml" href="https://abang-cungkok.pages.dev/alumni.utem.edu.my/amp">
-<link href="https://alumni.utem.edu.my/" rel="canonical" />
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://alumni.utem.edu.my/" />
+<link href="https://alumni.utem.edu.my/cli/" rel="canonical" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://alumni.utem.edu.my/cli/" />
 <link rel="alternate" href="https://abang-cungkok.pages.dev/alumni.utem.edu.my/amp"> 
 <link rel="alternate" href="https://abang-cungkok.pages.dev/alumni.utem.edu.my/amp" hreflang="id">
 <link rel="alternate" href="https://abang-cungkok.pages.dev/alumni.utem.edu.my/amp" hreflang="en">
@@ -27,11 +27,11 @@
 <meta name="google-site-verification" content="xdrgYEtwF_y4C4VelwWnp169Oak5pMGNlL7SNxBZBQY" />
 <meta name="description" content="Gabung BONENGJITU sekarang! Situs slot gacor dengan bonus new member, deposit rendah, dan peluang maxwin besar setiap hari. Akses link alternatif resmi tanpa ribet."/>
                        <meta name="keywords" content="BONENGJITU, bandar slot, slot gacor, slot gacor 2026, situs gacor, toto slot, slot mania, slot qris" />	
-<base href="https://alumni.utem.edu.my/" />
+<base href="https://alumni.utem.edu.my/cli/" />
 <meta property="og:type" content="website">
 <meta property="og:title" content="Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru">
 <meta property="og:description" content="Gabung BONENGJITU sekarang! Situs slot gacor dengan bonus new member, deposit rendah, dan peluang maxwin besar setiap hari. Akses link alternatif resmi tanpa ribet.">
-<meta property="og:url" content="https://alumni.utem.edu.my/">
+<meta property="og:url" content="https://alumni.utem.edu.my/cli/">
 <meta property="og:site_name" content="BONENGJITU">
 <meta property="og:image" content="https://abang-cungkok.pages.dev/BonengJitu/bandar-slot-boneng.jpg">
 <meta property="og:image:width" content="1024">
@@ -121,7 +121,7 @@ $(".fancybox").fancybox();
 <div class="header-bottom-block col-sm-12">
   <div class="header-bottom-left col-xs-6 col-sm-3 col-md-2 col-lg-2">
     <div class="header-logo">
-    <div id="BONENGJITU"><a href="https://alumni.utem.edu.my/"><img src="https://gambardunia.xyz/bonengjitu/logobng.webp" title="BONENGJITU" alt="BONENGJITU" class="img-responsive" /></a></div>
+    <div id="BONENGJITU"><a href="https://alumni.utem.edu.my/cli/"><img src="https://gambardunia.xyz/bonengjitu/logobng.webp" title="BONENGJITU" alt="BONENGJITU" class="img-responsive" /></a></div>
     </div>
     
     
@@ -150,10 +150,10 @@ $(".fancybox").fancybox();
 </div></div>
       <div class="header-link">
            <ul class="list-unstyled">
-            <li><a href="https://alumni.utem.edu.my/">BANDAR SLOT</a></li>
-            <li><a href="https://alumni.utem.edu.my/">SLOT ONLINE</a></li>
-            <li><a href="https://alumni.utem.edu.my/">SLOT GACOR</a></li>
-            <li><a href="https://alumni.utem.edu.my/">SLOT RESMI</a></li>
+            <li><a href="https://alumni.utem.edu.my/cli/">BANDAR SLOT</a></li>
+            <li><a href="https://alumni.utem.edu.my/cli/">SLOT ONLINE</a></li>
+            <li><a href="https://alumni.utem.edu.my/cli/">SLOT GACOR</a></li>
+            <li><a href="https://alumni.utem.edu.my/cli/">SLOT RESMI</a></li>
           </ul>
         </div>
 
@@ -199,7 +199,7 @@ $(".fancybox").fancybox();
 <div id="product-product" class="container product">
   <ul class="breadcrumb">
         <li><a href="https://www.kintaini.com/index.php?route=common/home"><i class="fa fa-home"></i></a></li>
-        <li><a href="https://alumni.utem.edu.my/">Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru</a></li>
+        <li><a href="https://alumni.utem.edu.my/cli/">Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru</a></li>
       </ul>
 
   </aside>
@@ -236,7 +236,7 @@ $(".fancybox").fancybox();
           		  <ul class="list-unstyled detail">
                         <li class="manufacturer">
               <div class="label">Brand:</div>
-              <a href="https://alumni.utem.edu.my/">BONENGJITU</a></li>
+              <a href="https://alumni.utem.edu.my/cli/">BONENGJITU</a></li>
                         <li class="model">
               <div class="label">Product Code: </div>
               BANDAR SLOT GACOR TERVIRAL</li>
@@ -990,9 +990,9 @@ $(".fancybox").fancybox();
 
 <div class="mini-breadcrumb">
   <nav aria-label="Breadcrumb">
-    <a href="https://alumni.utem.edu.my/">BONENGJITU</a>
+    <a href="https://alumni.utem.edu.my/cli/">BONENGJITU</a>
     <span class="mini-breadcrumb__sep">></span>
-    <a href="https://alumni.utem.edu.my/">Bandar Slot Online</a>
+    <a href="https://alumni.utem.edu.my/cli/">Bandar Slot Online</a>
     <span class="mini-breadcrumb__sep">›</span>
     <span>Fatherhood Statistics</span>
   </nav>
@@ -1692,14 +1692,14 @@ $('.product-carousel').owlCarousel({
   "@graph": [
     {
       "@type": "Product",
-      "@id": "https://alumni.utem.edu.my/",
+      "@id": "https://alumni.utem.edu.my/cli/",
       "name": "Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru",
       "image": [
         "https://gambardunia.xyz/bonengjitu/logobng.webp",
         "https://abang-cungkok.pages.dev/BonengJitu/bandar-slot-boneng.jpg"
       ],
       "description": "Gabung BONENGJITU sekarang! Situs slot gacor dengan bonus new member, deposit rendah, dan peluang maxwin besar setiap hari. Akses link alternatif resmi tanpa ribet.",
-      "url": "https://alumni.utem.edu.my/",
+      "url": "https://alumni.utem.edu.my/cli/",
       "brand": {
         "@type": "Brand",
         "name": "BONENGJITU"
@@ -1709,7 +1709,7 @@ $('.product-carousel').owlCarousel({
         "priceCurrency": "IDR",
         "price": "5000",
         "availability": "https://schema.org/InStock",
-        "url": "https://alumni.utem.edu.my/"
+        "url": "https://alumni.utem.edu.my/cli/"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -1766,7 +1766,7 @@ $('.product-carousel').owlCarousel({
     "@context": "https://schema.org",
     "@type": "SiteNavigationElement",
     "name": "Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru",
-    "url": "https://alumni.utem.edu.my/"
+    "url": "https://alumni.utem.edu.my/cli/"
     }
 </script>
 <script type="application/ld+json">
@@ -1778,49 +1778,49 @@ $('.product-carousel').owlCarousel({
       "@type": "ListItem",
       "position": 1,
       "name": "BONENGJITU",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Online",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Gacor",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Bandar Slot",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Agen Slot",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BONENGJITU",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "BONENGTOTO",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Situs BONENGJITU Slot Gacor 2026 👑 Game Viral & Pola Menang Terbaru",
-      "item": "https://alumni.utem.edu.my/"
+      "item": "https://alumni.utem.edu.my/cli/"
     }
   ]
 }
@@ -1833,7 +1833,7 @@ $('.product-carousel').owlCarousel({
   "image": [
     "https://abang-cungkok.pages.dev/BonengJitu/bandar-slot-boneng.jpg"
   ],
-  "url": "https://alumni.utem.edu.my/",
+  "url": "https://alumni.utem.edu.my/cli/",
   "telephone": "+62-8820-541-7936",
   "priceRange": "IDR",
   "address": {
