@@ -8,6 +8,7 @@
     <link href="//asset.kompas.com" rel="dns-prefetch">
     <link href="//adsimg.kompas.com" rel="dns-prefetch">
     <link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+    <meta name="google-site-verification" content="googleabdeef67752f0ea9" />
     <link href="//cm.g.doubleclick.net" rel="dns-prefetch">
     <link href="//apis.kompas.com" rel="dns-prefetch">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
